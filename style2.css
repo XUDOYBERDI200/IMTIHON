@@ -1,0 +1,65 @@
+.wrap{
+    display: flex;
+}
+.text{
+    width: 1440px;
+    height: 89px;
+    font-size: 20px;
+    align-items: center;
+    margin-top: -10px;
+    margin-left: 135px;
+}
+.text2 a{
+text-decoration: none;
+margin-left: 50px;
+color: black;
+font-size: 26px;
+}
+.text2{
+    display: flex;
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 300px;
+}
+.text3 button{
+    background-color: black;
+    width: 138px;
+    height: 48px;
+    color: white;
+    margin-top: 20px;
+    margin-left: -250px;
+}
+.text3 button:hover{
+    border: 5px solid blueviolet;
+}
+.block{
+    display: flex;
+}
+.left{
+    background: rgba(231, 212, 190, 0.44);
+    width: 725px;
+    height: 791px;
+}
+.left 
+.right img{
+    width: 715px;
+    height: 791px;
+}
+.left h4{
+    margin-left: 135px;
+    margin-top: -150px;
+}
+.left h1{
+    width: 250px;
+    margin-left: 135px;
+    font-size: 50px;
+    margin-top: -20px;
+}
+.left p{
+    width: 300px;
+    margin-left: 135px;
+}
+.left2 img{
+    margin-left: 270px;
+    margin-top: -100px;
+}

@@ -1,0 +1,90 @@
+.wrap{
+    background-color: #2f4f4f;
+    display: flex;
+}
+.text2 {
+    display: flex;
+    position: absolute;
+    margin-left: 1250px;
+}
+.text2 h1{
+    margin-left: 100px;
+}
+.text{
+    margin-left: 120px;
+    display: flex;
+    color: white;
+}
+.rasm{
+    margin-left: 800px;
+}
+.rasm img{
+    width: 950px;
+    height: 950px;
+}
+.rasm2{
+    margin-left: -950px;
+}
+.rasm2 img{
+    width: 950px;
+    height: 950px;
+}
+.rasm3{
+    margin-left: -1300px;
+    margin-top: 200px;
+}
+.rasm3 img{
+    width: 600px;
+    height: 600px;
+}
+.name h1{
+    color: white;
+    margin-left: -1200px;
+    margin-top: 350px;
+    font-size: 100px;
+    width: 700px;
+}
+.text3 h1{
+    color: grey;
+    margin-left: -1200px;
+    margin-top: 600px;
+    width: 650px;
+}
+.aylana {
+    width: 200px;
+    height: 70px;
+    background-color: orange;
+    margin-top: 900px;
+    margin-left: -1200px;
+    text-align: center;
+    border-radius: 20px;
+ }
+ .aylana2{
+    width: 200px;
+    height: 70px;
+    border: 2px solid orange;
+    margin-top: 900px;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+ }
+ .nom{
+    margin-left: 200px;
+    color: white;
+    margin-top: 1100px;
+ }
+ .oxiri{
+    margin-top: 1200px;
+    margin-left: -950px;
+ }
+ .oxiri img{
+    width: 1500px;
+ }
+ .chiziq{
+    width: 1200px;
+    height: 100px;
+    background-color: rgba(56, 98, 97, 1) ;
+    margin-top: -1270px;
+    z-index: auto;
+ }
